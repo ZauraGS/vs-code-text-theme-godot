@@ -6,6 +6,8 @@ Additionally, Changed Line Number, and Safe Line Number to be more visible.
 
 
 Import Instructions
-1. In a Godot Project Head to the Script Editor Tab
-2. File -> Theme -> Import Theme
-3. Navigate to Theme and Select
+1. Download vs_code_dark_theme.tet
+2. In a Godot Project Head to the Script Editor Tab
+3. File -> Theme -> Import Theme
+4. Navigate to vs_code_dark_theme.tet and Select it
+5. Voila!
